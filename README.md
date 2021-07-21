@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Fernando
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+developer+and+also+a+Biotechnologist.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+developer+and+also+a+Biotechnologist...++++++++++)](https://git.io/typing-svg)
 
 - Although I have a university degree in biotechnology, I recently became interested in the programming area and decided to become a Full Stack programmer, I have knowledge and handling of HTML, CSS, Bootstrap, GIT, JS, ECMAScript, JSON, React, NodeJS, MongoDB , among others. I consider myself passionate in the area of programming and I want to learn new tools as well as deepen the already known ones.
 - In my work, what most defines and differentiates me is my methodical order and my constant attempt to optimize what I do; I am a friendly person, who establishes good and respectful relationships with the people around me.
