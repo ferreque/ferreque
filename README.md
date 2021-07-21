@@ -19,4 +19,5 @@
 - 📫 Contact me: 
 - <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <h4>fernandorequenaserra@gmail.com</h4>
 - 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/ferreque?logo=Follow%20me%21&style=social">
+<a><img alt="GitHub followers" src="https://img.shields.io/github/followers/ferreque?label=Follow%20me&style=social">
+src=https://github.com/ferreque</a>
