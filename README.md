@@ -16,6 +16,5 @@
 - 🌱 I’m currently learning 
 - <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 
-- 📫 Contact me: 
 - <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <h4>fernandorequenaserra@gmail.com</h4>
 
