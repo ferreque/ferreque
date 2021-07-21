@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**ferreque/ferreque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Fernando
+#### I am Full Stack Developer and also a Biotechnologist
+- Although I have a university degree in biotechnology, I recently became interested in the programming area and decided to become a Full Stack programmer, I have knowledge and handling of HTML, CSS, Bootstrap, GIT, JS, ECMAScript, JSON, React, NodeJS, MongoDB , among others. I consider myself passionate in the area of programming and I want to learn new tools as well as deepen the already known ones.
+- In my work, what most defines and differentiates me is my methodical order and my constant attempt to optimize what I do; I am a friendly person, who establishes good and respectful relationships with the people around me.
 
-Here are some ideas to get you started:
+Skills: 
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+
+- 📫 How to reach me: fernandorequenaserra@gmail.com
